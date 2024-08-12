@@ -1,0 +1,35 @@
+{
+    "label": "laser",
+    "blocks": [
+        {
+            "relative position": {
+                "coordinates": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "block type": 133
+        },
+        {
+            "relative position": {
+                "coordinates": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            "block type": 133
+        },
+        {
+            "relative position": {
+                "coordinates": [
+                    0,
+                    2,
+                    0
+                ]
+            },
+            "block type": 133
+        }
+    ]
+}
